@@ -1,0 +1,4 @@
+designation,source_id,ra,dec,parallax,pmra,pmdec,ruwe,phot_g_mean_mag,bp_rp,radial_velocity,phot_variable_flag,non_single_star,has_xp_continuous,has_xp_sampled,has_rvs,has_epoch_photometry,has_epoch_rv,has_mcmc_gspphot,has_mcmc_msc,teff_gspphot,logg_gspphot,mh_gspphot,distance_gspphot,azero_gspphot,ag_gspphot,ebpminrp_gspphot
+"Gaia DR3 1360405469102036608",1360405469102036608,259.2810276360528,43.136085485130614,0.5054372815676893,-5.109125474915628,-2.8327474759949665,6.3573265,15.828347,0.83529377,,"NOT_AVAILABLE",0,false,false,false,false,false,false,true,,,,,,,
+"Gaia DR3 1360405469102036736",1360405469102036736,259.28050316022797,43.136113916700666,,,,,16.189642,,,"NOT_AVAILABLE",0,false,false,false,false,false,false,false,,,,,,,
+"Gaia DR3 1360405469102239104",1360405469102239104,259.2809616501695,43.13574662127114,,,,,15.879473,,,"NOT_AVAILABLE",0,false,false,false,false,false,false,false,,,,,,,
