@@ -1,0 +1,14 @@
+Eng:
+	How are exoplanets discovered and classified? What are the pros and cons of each 	discovery method?
+
+	What do discovered exoplanets teach us about our Solar System and planet formation? What 	insights do these findings provide about the possibility of extraterrestrial life?
+
+	What does the future hold for exoplanet research? What new technologies are being 	developed, and how will they help us understand exoplanetary systems?
+
+Tr:
+	Ötegezegenler nasıl keşfedilir ve sınıflandırılır? Farklı keşif yöntemlerinin her birinin 	artıları ve eksileri nelerdir?
+
+	Keşfedilen ötegezegenler bize Güneş Sistemimiz ve gezegen oluşumu hakkında ne öğretiyor? 	Bu bulgular, Dünya dışı yaşamın var olma olasılığı hakkında ne gibi bilgiler sunuyor?
+
+	Gelecekteki ötegezegen araştırmaları neler bekliyor? Hangi yeni teknolojiler 	geliştiriliyor ve bunlar ötegezen sistemlerini anlamamıza nasıl yardımcı olacak
+	JWST gibi .
