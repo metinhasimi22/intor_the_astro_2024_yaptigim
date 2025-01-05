@@ -1,0 +1,51 @@
+
+Python Tutorial.ipynb
+Python and Jupyter Intro.ipynb
+Unix_Git_Tutorial.ipynb
+
+
+echo -> birşeyleri yazdırmak için kullanılılr 
+     - echo "hi metin"
+pwd  -> mevcut yolunuzu gösterier 
+     - "OneDrive/Masaüstü/Intro_to_Astor2024"
+wc [file] -> dosyaların boyutlarını gösterir 
+ 
+cd   -> dosyalar arsında geçiş yapmanız yarar 
+
+ls   -> çevrenizdeki dosyalari listeler 
+     - ls -l -> listeleme yapar -t zamana göre yapar 
+
+man ls --> ls komutunun nasıl kullanıdığın örenmek için man komutunu kullanıyoruz 
+ve ya 
+ls --help  te benzer özelliği destekler 
+
+                # Dosya işelmleri 
+
+mkdir Astro_to_Intro2  --> Dosyasını oluşturur 
+touch metin.txt  --> metin.txt yi oluşturur
+
+rm metin.txt  --> metin.txt yi siler 
+    -rm -r içerindeki dosyalar dahil hepsini silme 
+
+naon README.md  --> README yi hem okuma hemde içeriğine müdahale etmeyi sağlıyor 
+
+cp 2.txt /home/sabri/Desktop/efran/Yedek/ --> sabir ye 2.txt yi kopyalar
+
+mv 2.txt /home/sabri/Desktop/efran/Yedek/ --> sabir ye 2.txt yi taşır 
+    -r hepsini taşır 
+    
+cat [file]  --> dosyanın içeriğini yazdırır (terminalde)
+head -n 5 [file]  --> ilk 5 satiri yazdırır
+tail //
+
+cat 3.txt > 2.txt  --> 3.txt yi 2.txt nin yerine kopyalayacaktır 
+cat 2.txt >> 3.txt  2.txt dosyası yoksa, komut onu oluşturacaktır. Aksi takdirde, dosyanın üzerine yazacaktır.
+
+grep [string] [file]  --> verilen stringi şu dosyada ara 
+
+grep "metinin" Astro_to_Intro2024  -*>metinin  geçenler Astro_to_Intro2024 ara 
+        --> grep - "it" haiku.txt
+
+find  /Desktop/Astro_to_Intro2024 "*.html"  --> gtml uzantulu olanlar bul
+
+man   -> birşeyler hakkında bizi bilgilerndirir
